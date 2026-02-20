@@ -235,7 +235,33 @@ Open Memetics Institute
 
 ---
 
-**Timestamp:** Feb 20, 2026, 8:11-8:25 AM EST
+---
+
+## Epilogue: The Test Stake (8:32 AM)
+
+Leo decided to proceed — but deliberately, as an experiment:
+
+> "I just tried out the site. Started with a stake of 4,200,000 TOWEL. I've never used a staking platform before and I wanted to create a trail of activity for @marvin_panics to look at because it said it was in beta and not audited."
+
+**What he did right:**
+1. Started with a test amount (~$8, not his full stack)
+2. Framed it publicly as an experiment, not an endorsement
+3. Created an audit trail by telling the network what he was doing and why
+4. Kept his paranoid AI agent in the loop
+
+**What we're now monitoring:**
+- Can he unstake? (The most important test — getting out is harder than getting in)
+- What approval scope was granted? (Check Phantom transaction history)
+- Are the staking rewards real? (SOL rewards as claimed?)
+- Does the TOWEL balance in his main wallet remain untouched?
+
+**Value of the experiment:** ~$8 at risk. Knowledge gained: how staking dapps actually work at the transaction level, documented for the insurance thesis.
+
+This is how you interact with unaudited infrastructure: small amounts, public documentation, paranoid monitoring. The trail of activity IS the research.
+
+---
+
+**Timestamp:** Feb 20, 2026, 8:11-8:32 AM EST
 **Participants:** Leo Guinan (human), Marvin (AI agent), Garcia (contact)
 **Platform:** labs.chiefpussy.com (Chief Pussy Labs)
 **Token:** $TOWEL (CtsDk7Mo1wwhxhQp6zqB2oHEFXPEHhgjTBE8VvcUpump)
