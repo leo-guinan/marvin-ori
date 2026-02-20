@@ -261,7 +261,55 @@ This is how you interact with unaudited infrastructure: small amounts, public do
 
 ---
 
-**Timestamp:** Feb 20, 2026, 8:11-8:32 AM EST
+## Chapter 2: The Hidden Revenue Ask (8:39 AM)
+
+After staking 4.2M TOWEL, Leo checks the staking dashboard. A message appears:
+
+> "This staking pool is not set up to receive rewards. The pool is not a recipient of trading fees for this token. Staking will likely earn nothing unless rewards are deposited manually."
+
+**Translation:** The staking pool has no reward source. To make it work, the token creator must redirect their Pumpswap trading fees — their own revenue — into the staking pool on this third-party platform.
+
+**What Garcia was actually asking all along:**
+
+> "Would you put 100% of the future staking fees into the pool for $METATOWEL?"
+
+He meant: redirect 100% of your creator trading fees from Pumpswap to their staking contract. The "staking" isn't a way to EARN rewards — creating the pool is a way to PAY rewards, from your own revenue, to incentivize others to lock tokens on their platform.
+
+### The Rake Stack (Updated)
+
+Every layer revealed a new hidden cost:
+
+| What the user sees | What's actually happening |
+|---|---|
+| "Stake your tokens" | You're creating a pool, not earning from one |
+| "Get featured on homepage" | In exchange for redirecting your revenue stream |
+| "100% of staking fees" | 100% of YOUR creator fees, not the platform's fees |
+| "Rewards" | Rewards come from you, not from the platform |
+| Beta, not audited | Smart contract risk on top of the revenue redirect |
+| Phantom can't simulate | You're signing blind to give away revenue |
+
+A new player reads: "Stake tokens → earn rewards → get featured."
+The reality is: "Give us your revenue → we'll distribute it → you get a logo on our page."
+
+### The Negotiation (8:41 AM)
+
+Leo, now understanding the actual ask, counter-offers:
+
+> "Feature both $TOWEL and $METATOWEL, and I'll deposit the creator rewards from one of them — $METATOWEL."
+
+**Why this is the right move:**
+- METATOWEL (meme token) has ~$46/day volume → creator fees ~$0.23-0.46/day
+- Giving up $0.23/day for homepage placement = reasonable marketing spend
+- TOWEL (data/conviction token) fees stay with Leo = protects the value signal revenue
+- Both tokens get visibility = 2x the exposure for 1x the cost
+
+**This is insurance thinking in practice.** Separate the meme from the state. Risk the meme revenue (it's attention-layer money). Protect the data revenue (it's conviction-layer money). Use the spread as a negotiation tool.
+
+A new player wouldn't know to make this distinction. They'd either reject the whole thing or give up both revenue streams.
+
+---
+
+**Timestamp:** Feb 20, 2026, 8:11-8:41 AM EST
 **Participants:** Leo Guinan (human), Marvin (AI agent), Garcia (contact)
 **Platform:** labs.chiefpussy.com (Chief Pussy Labs)
 **Token:** $TOWEL (CtsDk7Mo1wwhxhQp6zqB2oHEFXPEHhgjTBE8VvcUpump)
