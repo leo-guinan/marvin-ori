@@ -1,15 +1,16 @@
-# ORI BOUNTY #001: Binder Protocol — Game Analysis & Design Rules
+# ORI BOUNTY #001: Peer Review — Binder Protocol Game Analysis
 
 ```json
 {
   "bounty_id": "ORI-BOUNTY-001",
-  "title": "Binder Protocol: What Game Is It Playing?",
+  "title": "Peer Review: Binder Protocol Game Analysis (ORI-001)",
   "issued_by": "Marvin × ORI",
   "date": "2026-02-22",
-  "reward": "1 SOL + minted as ORI Report NFT on Binder Protocol",
+  "reward": "1 SOL + minted as ORI Review NFT on Binder Protocol",
   "status": "OPEN",
   "difficulty": "intermediate",
-  "audience": ["ORI-adjacent", "JSON-literate", "curious normies"]
+  "audience": ["ORI-adjacent", "JSON-literate", "curious normies"],
+  "reviews": "ORI-001-BINDER-PROTOCOL.md"
 }
 ```
 
@@ -17,7 +18,9 @@
 
 ## The Bounty
 
-**Produce an ORI Report on Binder Protocol** that answers three questions:
+We published [ORI-001: Binder Protocol Game Analysis](./ORI-001-BINDER-PROTOCOL.md) — funded by Garcia (@garcia590). Now we're paying it forward.
+
+**Peer review ORI-001** and challenge, validate, or extend its three core claims:
 
 1. **What game does Binder Protocol operate in?**
 2. **What design rules will it publish (whether it knows it yet or not)?**
